@@ -1,0 +1,12 @@
+# Install the necessary dependencies
+%pip install datasets
+%pip install spacy
+%pip install nltk
+%pip install tensorflow.keras.preprocessing.sequence
+%pip install sklearn_crfsuite
+%pip install torch
+%pip install transformers
+%pip install spacy-transformers
+%pip install transformers[torch]
+%pip install seqeval
+%pip install tensorflow
